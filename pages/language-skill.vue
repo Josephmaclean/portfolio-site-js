@@ -57,7 +57,7 @@
             <span class="text-blue">backend</span>
             <span class="text-peach">applications</span> with the help of
             <span class="text-purple">express js</span> and/or other libraries,
-            <span class="text-yellow">typescript</span> gives me the super
+            <span class="text-yellow">typescript</span> gives me the
             <span class="text-peach">power</span> of
             <span class="text-purple">flexibility</span>
           </p>

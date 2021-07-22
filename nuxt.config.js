@@ -45,7 +45,7 @@ export default {
 
       // Open Graph
       // Test on: https://developers.facebook.com/tools/debug/
-      { hid: 'og:site_name', property: 'og:site_name', content: 'Nuxt' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'Maclean' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
       {
         hid: 'og:url',
