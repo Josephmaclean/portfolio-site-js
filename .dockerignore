@@ -1,0 +1,13 @@
+node_modules/
+.prettierrc
+.idea
+.vscode
+.DS_Store
+.git
+.gitignore
+.eslintrc
+Dockerfile
+Dockerfile.dev
+jest.config.js
+jsconfig.json
+

@@ -2,7 +2,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        yellow: 'FFD700',
+        yellow: '#FFD700',
         black: '#FFF',
         'oslo-gray': '#79838B',
         'black-pearl': '#1B1B1B',
