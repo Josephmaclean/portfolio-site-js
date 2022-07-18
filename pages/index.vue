@@ -97,9 +97,6 @@ import SocialMedia from '~/components/SocialMedia.vue'
 export default {
   components: { SocialMedia },
   transition: 'intro',
-  data() {
-    return {}
-  },
   methods: {
     navigateToAbout() {
       setTimeout(() => {
